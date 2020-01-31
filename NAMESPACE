@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "cor", "pnorm", "var")
+import(e1071)
+import(BootMRMR)
+
+
+
+

@@ -1,0 +1,12 @@
+d26c3f949d3f5ccac0b0fd254c6d364c *DESCRIPTION
+015891f2d765b557316761f08fa3a009 *NAMESPACE
+aa99b1857cd75fb3ef05c5bc4210fed9 *R/IGST.bootmrmrsvm.pval.cutoff.R
+cb009fa34bb2b7f9e0e2b7049e4bd567 *R/IGST.bootmrmrsvm.weight.cutoff.R
+0fc6cc84658cee09c4a6f47777b737c7 *R/IGST.pval.bootmrmrsvm.R
+4b6a2b8c81b83a5ba3a2f97aa1e0b4c4 *R/IGST.weight.bootmrmrsvm.R
+0e85bb93ea49f3120097f34d2140f192 *data/rice_cold.RData
+ca71f92cb5014e547d6301a96ad23db1 *man/IGST.bootmrmrsvm.pval.cutoff.Rd
+70dc9368346ed32f9b6a3a508372d4ab *man/IGST.bootmrmrsvm.weight.cutoff.Rd
+f2e3022332700f01bd428559940fc646 *man/IGST.pval.bootmrmrsvm.Rd
+890e3a3568777ce85dd7697529da377f *man/IGST.weight.bootmrmrsvm.Rd
+39ed6bf4ce380848969cf6e1e6fcbd75 *man/rice_cold.Rd
